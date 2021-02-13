@@ -6,6 +6,8 @@ This solution allows you to sign requests to the TikTok API.
 
 :iphone: Works with TikTok app version 18.2 and previous versions.
 
+**Algorithm version - 0404**
+
 Using this solution, you will be able to:
 
 - Register your device
@@ -16,6 +18,8 @@ Using this solution, you will be able to:
 And other actions to TikTok API endpoints.
 
 Please write me if you have any questions - [Telegram](http://t.me/iamemelyanenko)
+
+Telegram : iamemelyanenko
 
 ![](gorgon.gif)
 
